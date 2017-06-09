@@ -1,0 +1,6 @@
+c:\users\jardel\documents\visual studio 2017\Projects\encrypt2\encrypt2\bin\Debug\encrypt2.exe.config
+c:\users\jardel\documents\visual studio 2017\Projects\encrypt2\encrypt2\bin\Debug\encrypt2.exe
+c:\users\jardel\documents\visual studio 2017\Projects\encrypt2\encrypt2\bin\Debug\encrypt2.pdb
+c:\users\jardel\documents\visual studio 2017\Projects\encrypt2\encrypt2\obj\Debug\encrypt2.exe
+c:\users\jardel\documents\visual studio 2017\Projects\encrypt2\encrypt2\obj\Debug\encrypt2.pdb
+C:\Users\jardel\Documents\Visual Studio 2017\Projects\encrypt2\encrypt2\obj\Debug\encrypt2.csprojResolveAssemblyReference.cache
